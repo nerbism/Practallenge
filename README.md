@@ -15,3 +15,6 @@ The repository contains the following:
 * Code Samples: Examples demonstrating different algorithms, data structures, design patterns, etc.
 
 * Learning Resources: References to useful articles, tutorials, books, and online courses for further learning.
+
+## Disclaimer 
+This repository is solely for MY educational purposes and practice.
