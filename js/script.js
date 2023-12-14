@@ -68,14 +68,19 @@
 ///////////////
 
 // (1) Logic and Control FLow
-// (1) What is JavaScript?
-// (1) What is JavaScript?
-// (1) What is JavaScript?
-// (1) What is JavaScript?
-// (1) What is JavaScript?
-// (1) What is JavaScript?
-// (1) What is JavaScript?
-// (1) What is JavaScript?
+// (1) If Statements 
+// (1) If else & Nesting
+// (1) Switch Statements 
+// (1) Calculator Challenge
+// (1) Truthy and Falsy Values 
+// (1) Logical Operators 
+// (1) Logical Assignment
+// (1) Tenary Operator
+
+///////////////
+// SECTION 5 //
+///////////////
+
 // (1) What is JavaScript?
 // (1) What is JavaScript?
 // (1) What is JavaScript?
