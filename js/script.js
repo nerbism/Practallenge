@@ -82,19 +82,22 @@
 ///////////////
 
 // (1) Loops & High Order Array Functions 
-// (1) For Loop
-// (1) Break and Continue 
-// (1) While & Do  While Loops 
-// (1) FizzBuzz Challenge 
-// (1) For... Of Loop
-// (1) For... In Loop 
-// (1) Array.forEach
-// (1) Arrray.filter
-// (1) Array.map
-// (1) Array.reduce 
-// (1) Array Method Challenges 
-// (1) What is JavaScript?
+// (2) For Loop
+// (3) Break and Continue 
+// (4) While & Do  While Loops 
+// (5) FizzBuzz Challenge 
+// (6) For... Of Loop
+// (7) For... In Loop 
+// (8) Array.forEach
+// (9) Arrray.filter
+// (10) Array.map
+// (11) Array.reduce 
+// (12) Array Method Challenges 
+// (13) What is JavaScript?
 
+///////////////
+// SECTION 6 //
+///////////////
 
 // (1) What is JavaScript?
 // (1) What is JavaScript?
