@@ -45,22 +45,27 @@
 // (10) Object Challenge 
 
 
+///////////////
+// SECTION 3 //
+///////////////
+
+// (1) Functions, Scope, and Execution
+// (1) Function Basics 
+// (1) Parameters & Arguments 
+// (1) Global & Function Scope
+// (1) Block Scope 
+// (1) Nested Scope 
+// (1) Declaration vs Expression
+// (1) Arrow Functions 
+// (1) IFEE
+// (1) Function Challenges 
+// (1) Execution Context
+// (1) Execution Context in Action
+// (1) The Call Stack
 
 
-// (1) What is JavaScript?
-// (1) What is JavaScript?
-// (1) What is JavaScript?
-// (1) What is JavaScript?
-// (1) What is JavaScript?
-// (1) What is JavaScript?
-// (1) What is JavaScript?
-// (1) What is JavaScript?
-// (1) What is JavaScript?
-// (1) What is JavaScript?
-// (1) What is JavaScript?
-// (1) What is JavaScript?
-// (1) What is JavaScript?
-// (1) What is JavaScript?
+
+// (1) What is JavaScript
 // (1) What is JavaScript?
 // (1) What is JavaScript?
 // (1) What is JavaScript?
