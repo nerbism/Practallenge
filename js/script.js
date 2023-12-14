@@ -68,14 +68,14 @@
 ///////////////
 
 // (1) Logic and Control FLow
-// (1) If Statements 
-// (1) If else & Nesting
-// (1) Switch Statements 
-// (1) Calculator Challenge
-// (1) Truthy and Falsy Values 
-// (1) Logical Operators 
-// (1) Logical Assignment
-// (1) Tenary Operator
+// (2) If Statements 
+// (3) If else & Nesting
+// (4) Switch Statements 
+// (5) Calculator Challenge
+// (6) Truthy and Falsy Values 
+// (7) Logical Operators 
+// (8) Logical Assignment
+// (9) Tenary Operator
 
 ///////////////
 // SECTION 5 //
