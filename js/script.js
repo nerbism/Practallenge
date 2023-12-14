@@ -99,9 +99,27 @@
 // SECTION 6 //
 ///////////////
 
+// (1) The DOM
+// (1) Intro to the DOM
+// (1) Document Element Propeerties 
+// (1) DOM Selectors - Single Elements 
+// (1) DOM Selectors - Multiple Elements 
+// (1) Traversing the DOM - Elements 
+// (1) Traversing the DOM - Nodes 
+// (1) Create and Append Elements 
+// (1) innerHTML vs CreateElement
+// (1) Refactor to Multiple Functions
+// (1) Insert Elements, Text, and HTML
+// (1) Custom insertAfter() CHallenge 
+// (1) Replacing Elments 
+// (1) Removing Elements 
+// (1) Working with Styles & Classes
+// (1) What is JavaScript?
+
+
+
 // (1) What is JavaScript?
 // (1) What is JavaScript?
-// (1) What is JavaScript?
-// (1) What is JavaScript?
+
 
 
