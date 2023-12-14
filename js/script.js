@@ -50,24 +50,48 @@
 ///////////////
 
 // (1) Functions, Scope, and Execution
-// (1) Function Basics 
-// (1) Parameters & Arguments 
-// (1) Global & Function Scope
-// (1) Block Scope 
-// (1) Nested Scope 
-// (1) Declaration vs Expression
-// (1) Arrow Functions 
-// (1) IFEE
-// (1) Function Challenges 
-// (1) Execution Context
-// (1) Execution Context in Action
-// (1) The Call Stack
+// (2) Function Basics 
+// (3) Parameters & Arguments 
+// (4) Global & Function Scope
+// (5) Block Scope 
+// (6) Nested Scope 
+// (7) Declaration vs Expression
+// (8) Arrow Functions 
+// (9) IFEE
+// (10) Function Challenges 
+// (11) Execution Context
+// (12) Execution Context in Action
+// (13) The Call Stack
 
+///////////////
+// SECTION 4 //
+///////////////
 
+// (1) Logic and Control FLow
+// (1) What is JavaScript?
+// (1) What is JavaScript?
+// (1) What is JavaScript?
+// (1) What is JavaScript?
+// (1) What is JavaScript?
+// (1) What is JavaScript?
+// (1) What is JavaScript?
+// (1) What is JavaScript?
+// (1) What is JavaScript?
+// (1) What is JavaScript?
+// (1) What is JavaScript?
+// (1) What is JavaScript?
+// (1) What is JavaScript?
+// (1) What is JavaScript?
+// (1) What is JavaScript?
+// (1) What is JavaScript?
+// (1) What is JavaScript?
+// (1) What is JavaScript?
+// (1) What is JavaScript?
+// (1) What is JavaScript?
+// (1) What is JavaScript?
+// (1) What is JavaScript?
+// (1) What is JavaScript?
+// (1) What is JavaScript?
+// (1) What is JavaScript?
 
-// (1) What is JavaScript
-// (1) What is JavaScript?
-// (1) What is JavaScript?
-// (1) What is JavaScript?
-// (1) What is JavaScript?
 
