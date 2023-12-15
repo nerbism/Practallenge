@@ -14,6 +14,7 @@
         // Install git
         // Install nodejs
 // (3) Running JS in the browser.
+        // Use Live Server in the browser, no need to reload.
 // (4) Using the Sanbox.
 // (5) The Browser Console.
 // (6) Comments & Shortcuts.
