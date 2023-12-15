@@ -11,6 +11,8 @@
 
 
 // (2) Enviroment Setup.
+        // Install git
+        // Install nodejs
 // (3) Running JS in the browser.
 // (4) Using the Sanbox.
 // (5) The Browser Console.
