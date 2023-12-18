@@ -10,3 +10,15 @@
         // The code is not perm of course, once the page is refreshed that code will vanish.
 
     // Logging to the console:
+        // You can log into the console using the console object and dott logging. For example:
+        const x = 100; 
+        console.log(x);
+            // In the browser console, the number 100 will be logged.
+
+        // A few more examples:
+
+        console.log('Hello World');
+        console.log('Hello', 100, true);
+
+
+        
