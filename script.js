@@ -1,7 +1,3 @@
-// (4) Using the Sandbox.
-
-
-// (5) The Browser Console.
 // (6) Comments & Shortcuts.
 // (7) Variables and Constants.
 // (8) Data Types.
