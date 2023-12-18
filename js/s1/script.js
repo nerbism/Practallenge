@@ -15,6 +15,9 @@
 
 // (3) Running JS in the browser.
         // Use Live Server in the browser, no need to reload.
+        // (1)Script at the bottom of the html file.
+        // (2)Source the script file connect html with js
+        alert('Hello from JS File')
 
 // (4) Using the Sandbox.
 
