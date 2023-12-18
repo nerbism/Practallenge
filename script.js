@@ -1,17 +1,4 @@
-// JavaScript Learning 
 
-///////////////
-// SECTION 1 //
-///////////////
-
-// (1) What is JavaScript?
-        // JavaScript is a programming language.
-        // Its a language that tells your computer what to do.
-        // A language that makes websites interactive and dynamic.
-
-// (2) Enviroment Setup.
-        // Install git
-        // Install nodejs
 
 // (3) Running JS in the browser.
         // Use Live Server in the browser, no need to reload.
