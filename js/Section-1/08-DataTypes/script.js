@@ -42,11 +42,38 @@
             console.log(typeof id)
 
 
-            
+
     // Reference Data Types 
         /*
             Objects
             Arrays 
             Functions 
 
+                Any refeerence type will output as an 'Object'
         */
+
+
+            // Array 
+            const numbers = [1,2,3,4,5]
+            arrOutput = numbers 
+            console.log(arrOutput, typeof arrOutput)
+
+
+            // Object
+            const brensBackpack = {
+                CPU: 'Macbook Pro 13',
+                Book: 'Cloud Architecture',
+                Pens: 10,
+                hasLunch: true
+            }
+
+            console.log( brensBackpack)
+            console.log(typeof brensBackpack)
+
+
+            // Functiton 
+            function sayHi() {
+                console.log('Hi')
+            }
+            sayHi()
+            console.log(typeof sayHi)
