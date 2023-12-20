@@ -18,3 +18,11 @@ console.log(random, typeof random)
         // Method 2 \\
 random = String(random)
 console.log(random, typeof random)
+
+
+
+// Change String into a Decimal \\
+let yeth = '3.69'
+console.log(yeth, typeof yeth)
+yeth = parseFloat(yeth)
+console.log(yeth, typeof yeth)
