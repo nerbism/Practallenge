@@ -33,3 +33,9 @@ i =  i + 5
 console.log(i)
 // or
 i += 5 
+
+
+// Comparison Operators 
+
+compare = 5 == 5
+console.log(compare)
