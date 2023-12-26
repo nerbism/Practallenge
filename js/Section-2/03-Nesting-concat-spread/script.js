@@ -49,3 +49,24 @@ numbers = [1, 2, 3, [4, 5], 6, [7, 8], 9]
  console.log(n)
 // Flat, turns nested Arrays into one singlular Array.
 
+// Array Object Methods \\
+let q;
+q = Array.isArray(fruits)
+console.log(q)
+//  Checks if input is an array. Comes back True or False.
+
+
+q = Array.from('123456789')
+console.log(q)
+// Creates an array with inputtted string.
+
+
+const a = 'hi'
+const b = 'im'
+const c = 'bren'
+q = Array.of(a,b,c)
+console.log(q)
+// Creates an array of defined variables.
+
+
+
