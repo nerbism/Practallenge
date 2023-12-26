@@ -28,10 +28,25 @@ favLifts.shift()
 console.log('(Example 4)',favLifts)
 
 
-
 //  (5)
 favLifts.reverse()
 // Reverses the Array. 
 console.log('Example 5', favLifts)
 
-console.log(favLifts)
+// Information Grabbing from Arrays \\
+
+let x;
+
+// (6)
+x = favLifts.includes('Chest')
+// Checks to see if the inputted variable is inside the Array. Gives true or false statements.
+console.log('Example 6', x)
+
+// (7)
+x = favLifts.slice(1,2)
+// Returns the inbetween of selected indexes. "Slicing" them out of the Array. (Does not change Array)
+console.log('Example 7', x)
+
+// (8)
+x = favLifts.splice(1,2)
+// Plucks out of the Array just like slice. But changes Array permanently.
