@@ -41,3 +41,11 @@ console.log(f)
 // The Sprea operator lists everything in an Array or an Object, here I listed everything into a new Array.
 
 
+// Flatten Arrays
+
+let n;
+numbers = [1, 2, 3, [4, 5], 6, [7, 8], 9]
+ n = numbers.flat()
+ console.log(n)
+// Flat, turns nested Arrays into one singlular Array.
+
