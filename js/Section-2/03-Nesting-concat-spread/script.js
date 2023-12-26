@@ -32,3 +32,12 @@ let y;
 y = fruits.concat(berries)
 console.log(y)
 // Concatting adds the Arrays togetther into a single Array.
+
+
+// Spread Operator (...) \\
+let f;
+f = [...fruits, ...berries]
+console.log(f)
+// The Sprea operator lists everything in an Array or an Object, here I listed everything into a new Array.
+
+
