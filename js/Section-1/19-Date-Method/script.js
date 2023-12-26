@@ -31,3 +31,9 @@ console.log(x)
 
 x = d.getSeconds()
 console.log(x)
+// Grabs current seconds.
+
+
+x = Intl.DateTimeFormat('en-US').format(d)
+console.log(x)
+// Displays time in US format
