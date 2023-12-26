@@ -20,3 +20,15 @@ console.log(x)
 // Grab Nissan GTR out of the cars Array.
 x = cars[1][3]
 console.log(x)
+
+
+
+// Concat Arrays \\
+fruits = ['Banana', 'Pear', 'Kiwi']
+berries = ['Blueberries', 'Strawberries', 'Raspberries']
+
+let y;
+
+y = fruits.concat(berries)
+console.log(y)
+// Concatting adds the Arrays togetther into a single Array.
