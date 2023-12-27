@@ -48,7 +48,7 @@ console.log(me)
 
 
 me.greet = function () {
-    console.log(`Hello my namee is ${this.name} and my crush is ${this.crush}`)
+    console.log(`Hello my name is ${this.name} and my crush is ${this.crush}`)
 }
 
 me.greet();
