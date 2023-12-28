@@ -12,3 +12,12 @@ const coolestPerson = {
     const { id, name } = coolestPerson
     console.log(id)
     console.log(name)
+
+
+
+// Destructure Arrays
+
+    numbers = [1, 2, 3, 4, 69]
+    const [first, second, ...rest] = numbers
+    console.log(second)
+    console.log(rest)
