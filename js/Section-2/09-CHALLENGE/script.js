@@ -37,3 +37,14 @@ const library = [
         }
     }
 ]
+
+// Step 2:
+// Edit the above read to true using dot notation.
+
+library[0].status.read = true
+library[1].status.read = true
+library[2].status.read = true
+console.log(library[0].status.read)
+console.log(library[1].status.read)
+console.log(library[2].status.read)
+
