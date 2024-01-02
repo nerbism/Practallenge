@@ -29,7 +29,7 @@ const library = [
     },
     {
         title: 'Thinking Clearly',
-        author: 'Rolf Dobeelli',
+        author: 'Rolf Dobelli',
         status: {
             own: true,
             reading: false,
@@ -44,7 +44,11 @@ const library = [
 library[0].status.read = true
 library[1].status.read = true
 library[2].status.read = true
-console.log(library[0].status.read)
-console.log(library[1].status.read)
-console.log(library[2].status.read)
+// console.log(library[0].status.read)
+// console.log(library[1].status.read)
+// console.log(library[2].status.read)
 
+// Step 3:
+// Deestructuree the title from thee first book and rename the variable to firstBook
+const { title: firstBook } = library[0]
+console.log(firstBook)
