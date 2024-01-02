@@ -52,3 +52,11 @@ library[2].status.read = true
 // Deestructuree the title from thee first book and rename the variable to firstBook
 const { title: firstBook } = library[0]
 console.log(firstBook)
+
+
+
+// Step 4 
+// Turn the library into JSON Data
+
+const libJson = JSON.stringify(library)
+console.log(libJson)
