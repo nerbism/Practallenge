@@ -24,3 +24,26 @@ console.log(chatEnter())
  }
 
 console.log(shipment('Bren', 'D'))
+
+
+
+// Rest Params 
+ function numbrs(...nums) {
+    return nums
+ }
+ console.log(numbrs(1,2,3,4,5,6))
+//  Using Rest (...) puts everything into an Array.
+
+
+// Object as Params 
+const user = {
+    id: 1,
+    attribute: 'beautiful',
+    name: 'Dania'
+}
+
+function userInfo(user) {
+    return `The user ${user.name} with the ID of: {user.id} is very ${user.attribute}.`
+}
+
+console.log(userInfo(user))
