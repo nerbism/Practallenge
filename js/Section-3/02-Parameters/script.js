@@ -43,7 +43,7 @@ const user = {
 }
 
 function userInfo(user) {
-    return `The user ${user.name} with the ID of: {user.id} is very ${user.attribute}.`
+    return `The user ${user.name} with the ID of: ${user.id} is very ${user.attribute}.`
 }
 
 console.log(userInfo(user))
