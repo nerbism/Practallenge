@@ -47,3 +47,10 @@ function userInfo(user) {
 }
 
 console.log(userInfo(user))
+
+
+console.log(userInfo({
+    id: 2,
+    attribute: 'handsome',
+    name: 'Bren'
+}))
