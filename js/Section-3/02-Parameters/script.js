@@ -54,3 +54,13 @@ console.log(userInfo({
     attribute: 'handsome',
     name: 'Bren'
 }))
+
+
+function randomIndex(arr) {
+    const randomNumber = Math.floor(Math.random() * arr.length )
+
+    number = arr[randomNumber]
+    console.log(number)
+}
+
+randomIndex([1,2,3,4,5,6,7,8,9])
