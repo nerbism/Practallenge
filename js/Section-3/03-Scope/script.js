@@ -1,0 +1,2 @@
+// Global and Functional Scope
+
